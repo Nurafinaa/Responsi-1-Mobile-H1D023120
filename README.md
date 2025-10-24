@@ -27,4 +27,4 @@ Data diambil secara real-time dari **Football Data API** ([https://api.football-
    Menyajikan sejarah klub dengan teks yang dirapikan.
 
 ## Dokumentasi Aplikasi 
-
+![Demo Aplikasi](responsi.gif)
