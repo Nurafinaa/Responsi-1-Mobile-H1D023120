@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SCC NAPOLI</string>
+    <string name="desc_club">
+        SSC Napoli adalah sebuah klub sepak bola Italia dari kota Napoli yang berjuluk Azzurri (Si Biru). Klub ini merupakan salah satu tim terkemuka di Serie A Italia dan dikenal luas saat legenda sepak bola Diego Maradona bermain untuknya di era 1980-an, membawa Napoli meraih banyak gelar, termasuk dua gelar Serie A
+    </string>
+        <string name="menu_history">Club History</string>
+        <string name="menu_coach">Head Coach</string>
+        <string name="menu_squad">Team Squad</string>
+    <string name="club_story_title">SSC Napoli’s History</string>
+    <string name="club_story">
+        Didirikan pada tahun 1926 dengan nama Associazione Calcio Napoli, klub ini lahir dari budaya sepak bola yang sangat kuat di kota Napoli. Tahun-tahun awalnya diwarnai dengan berbagai kesulitan dan degradasi, namun identitas tim sebagai simbol kebanggaan Italia bagian selatan segera terbentuk.
+
+Masa keemasan datang pada akhir tahun 1980-an ketika Diego Armando Maradona bergabung dengan Napoli pada tahun 1984. Bersama dirinya, klub meraih kesuksesan yang belum pernah terjadi sebelumnya — memenangkan gelar Serie A dan Coppa Italia pada musim 1986–87, diikuti dengan Piala UEFA pada 1988–89, serta gelar Serie A kedua pada 1989–90. Tahun-tahun ini mengubah Napoli menjadi kekuatan besar di Eropa dan menjadikan Maradona sebagai legenda abadi kota tersebut.
+
+Setelah kepergian Maradona, klub menghadapi masalah keuangan serius hingga akhirnya dinyatakan bangkrut pada tahun 2004. Napoli kemudian terlahir kembali dengan nama Napoli Soccer di bawah kepemilikan baru, yakni produser film Aurelio De Laurentiis. Dengan tekad kuat dan dukungan suporter yang setia, Napoli memulai kembali dari Serie C1, dan perlahan bangkit hingga akhirnya kembali ke Serie A pada tahun 2007, sekaligus mengembalikan nama bersejarahnya: Società Sportiva Calcio Napoli.
+
+Dalam dekade berikutnya, Napoli secara konsisten menjadi penantang di papan atas Serie A. Di bawah asuhan pelatih seperti Walter Mazzarri, Rafael Benítez, Maurizio Sarri, dan Gennaro Gattuso, tim Partenopei memenangkan berbagai trofi domestik — termasuk Coppa Italia pada tahun 2012, 2014, dan 2020 — serta dikenal karena gaya bermain yang atraktif dan menyerang. Pemain-pemain bintang seperti Marek Hamšík, Edinson Cavani, Lorenzo Insigne, Dries Mertens, dan Kalidou Koulibaly menjadi cerminan semangat tim ini.
+
+Pada musim 2022–23, Napoli mencapai puncak baru di bawah pelatih Luciano Spalletti. Dipimpin oleh penyerang Victor Osimhen dan winger Khvicha Kvaratskhelia, Napoli mendominasi Serie A dan merebut Scudetto ketiga mereka — yang pertama dalam 33 tahun. Kemenangan itu menyatukan seluruh kota, dengan perayaan besar di Stadio Diego Armando Maradona, stadion yang kini dinamai untuk menghormati ikon terbesar mereka.
+
+Kini, SSC Napoli berdiri sebagai simbol semangat, ketangguhan, dan kebanggaan bagi masyarakat Napoli. Lebih dari sekadar trofi, klub ini mewakili hati dan jiwa rakyat Napoli — kisah tentang kelahiran kembali, kesetiaan, dan keyakinan yang tak tergoyahkan terhadap warna biru langit mereka.
+    </string>
+</resources>
